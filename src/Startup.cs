@@ -11,6 +11,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using WEBAPILearning2.appStart;
+using WEBAPILearning2.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace WEBAPILearning2
 {
@@ -28,6 +30,13 @@ namespace WEBAPILearning2
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
             services.AddSwaggerOptions();
+
+            services
+              .AddEntityFrameworkSqlServer()
+
+              .AddDbContext<studentDBContext>((serviceProvider, options) =>
+                  options.UseSqlServer(Configuration.GetConnectionString("myconnection"))
+                         .UseInternalServiceProvider(serviceProvider));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -45,6 +54,9 @@ namespace WEBAPILearning2
 
             app.UseHttpsRedirection();
             app.UseMvc();
+
+
         }
     }
+
 }

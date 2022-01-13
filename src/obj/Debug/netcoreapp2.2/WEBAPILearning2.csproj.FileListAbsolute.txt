@@ -1,0 +1,17 @@
+C:\Users\samarjeetsb\source\repos\WEBAPILearning2\WEBAPILearning2\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\samarjeetsb\source\repos\WEBAPILearning2\WEBAPILearning2\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\samarjeetsb\source\repos\WEBAPILearning2\WEBAPILearning2\bin\Debug\netcoreapp2.2\WEBAPILearning2.deps.json
+C:\Users\samarjeetsb\source\repos\WEBAPILearning2\WEBAPILearning2\bin\Debug\netcoreapp2.2\WEBAPILearning2.runtimeconfig.json
+C:\Users\samarjeetsb\source\repos\WEBAPILearning2\WEBAPILearning2\bin\Debug\netcoreapp2.2\WEBAPILearning2.runtimeconfig.dev.json
+C:\Users\samarjeetsb\source\repos\WEBAPILearning2\WEBAPILearning2\bin\Debug\netcoreapp2.2\WEBAPILearning2.dll
+C:\Users\samarjeetsb\source\repos\WEBAPILearning2\WEBAPILearning2\bin\Debug\netcoreapp2.2\WEBAPILearning2.pdb
+C:\Users\samarjeetsb\source\repos\WEBAPILearning2\WEBAPILearning2\obj\Debug\netcoreapp2.2\WEBAPILearning2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samarjeetsb\source\repos\WEBAPILearning2\WEBAPILearning2\obj\Debug\netcoreapp2.2\WEBAPILearning2.AssemblyInfoInputs.cache
+C:\Users\samarjeetsb\source\repos\WEBAPILearning2\WEBAPILearning2\obj\Debug\netcoreapp2.2\WEBAPILearning2.AssemblyInfo.cs
+C:\Users\samarjeetsb\source\repos\WEBAPILearning2\WEBAPILearning2\obj\Debug\netcoreapp2.2\WEBAPILearning2.csproj.CoreCompileInputs.cache
+C:\Users\samarjeetsb\source\repos\WEBAPILearning2\WEBAPILearning2\obj\Debug\netcoreapp2.2\WEBAPILearning2.RazorAssemblyInfo.cache
+C:\Users\samarjeetsb\source\repos\WEBAPILearning2\WEBAPILearning2\obj\Debug\netcoreapp2.2\WEBAPILearning2.RazorAssemblyInfo.cs
+C:\Users\samarjeetsb\source\repos\WEBAPILearning2\WEBAPILearning2\obj\Debug\netcoreapp2.2\WEBAPILearning2.RazorTargetAssemblyInfo.cache
+C:\Users\samarjeetsb\source\repos\WEBAPILearning2\WEBAPILearning2\obj\Debug\netcoreapp2.2\WEBAPILearning2.dll
+C:\Users\samarjeetsb\source\repos\WEBAPILearning2\WEBAPILearning2\obj\Debug\netcoreapp2.2\WEBAPILearning2.pdb
+C:\Users\samarjeetsb\source\repos\WEBAPILearning2\WEBAPILearning2\obj\Debug\netcoreapp2.2\WEBAPILearning2.genruntimeconfig.cache

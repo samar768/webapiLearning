@@ -11,6 +11,8 @@ namespace WEBAPILearning2.Repository
 }
 
 
-    //Scaffold - DbContext "Data Source=HLWHLYZQG3\SQL2019;Initial Catalog=EcoTech_main;Integrated Security=True" - OutputDir EntityFramework_Generated - Provider Microsoft.EntityFrameworkCore.SqlServer - Context "StudentDBContext"
 
-    //Scaffold - DbContext - Connection "Data Source=HLWHLYZQG3\SQL2019;Initial Catalog=EcoTech_main;Integrated Security=True"   Microsoft.EntityFrameworkCore.SqlServer
+ 
+
+
+
